@@ -1,0 +1,22 @@
+Basic Linux
+https://linuxjourney.com/
+
+Expert in Linux
+http://www.linuxhomenetworking.com/wiki/index.php/Main_Page#.W1NjeNUzbDd
+
+
+how-to-install-apache
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-16-04
+
+free trail AWS
+https://aws.amazon.com/free/start-your-free-trial/
+
+
+Install Git SCM on your Workstation/Laptop https://git-scm.com/downloads
+Sign Up for Git Hub Account https://github.com/join
+Learn basic Linux Commands.
+Learn Basics of Cloud Computing.
+Sign up for any Public Cloud Trial Account.
+List all other DevOps tools that are available in Market
+
+
